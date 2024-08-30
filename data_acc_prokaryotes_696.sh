@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the input and output file names
-input_file="input_accessions_prokaryotes.txt"
+input_file="input_accessions_dataset_for_prokaryotes.txt"
 prokaryote_file="prokaryotes.txt"
 output_file="data_acc_prokaryotes_696.tsv"
 
